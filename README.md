@@ -21,9 +21,10 @@ Run the script and enter the target IP:
 📌 Example Output
 
 ### Scanning target 192.168.1.1...
-[+] Port 80 is OPEN
-[-] Port 443 is CLOSED
-Total ports scanned: 625
+#### [+] Port 80 is OPEN
+#### [-] Port 443 is CLOSED
+#### Total ports scanned: 625
+
 ### 📜 License
 This project is for educational & ethical hacking purposes only. Use responsibly! ⚠️
 
